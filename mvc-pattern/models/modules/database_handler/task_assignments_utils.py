@@ -1,3 +1,9 @@
+# FILE: task_assignments_utils.py
+# AUTHOR: Tran Danh Lam 
+# CREATED: 2024-11-25
+# MODIFIED: 2024-11-25
+# DESCRIPTION: This module contains the EmployeesUtils class for managing employees in the database.
+
 import logging
 from models.modules.database_handler.operator import Operator
 from configs import server as server_config
