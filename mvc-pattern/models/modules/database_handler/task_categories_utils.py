@@ -1,3 +1,9 @@
+# FILE: task_categories_utils.py
+# AUTHOR: Tran Danh Lam 
+# CREATED: 2024-11-25
+# MODIFIED: 2024-11-25
+# DESCRIPTION: This module contains the TaskCategoriesUtils class for managing task categories in the database.
+
 import logging
 from models.modules.database_handler.operator import Operator
 from configs import server as server_config
