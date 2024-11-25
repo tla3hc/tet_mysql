@@ -1,0 +1,114 @@
+{
+    "weeks": {
+        "92024": {
+            "Week_status" : "Unsubmitted",
+            "Test task #1": [
+                {                    
+                    "project": "Project B",
+                    "category": "REG_TV",
+                    "status": "On-going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": 0,
+                    "estimatedEffort": 0,
+                    "timeRemaining": 0,
+                    "findings": 0,
+                    "startDate": "Today",
+                    "endDate": "That day",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": "It's OK"
+                },
+
+                {                    
+                    "project": "Project B",
+                    "category": "REG_TS",
+                    "status": "On-going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": 0,
+                    "estimatedEffort": 0,
+                    "timeRemaining": 0,
+                    "findings": 0,
+                    "startDate": "Today",
+                    "endDate": "That day",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": "It's OK"
+                }
+            ]
+        },   
+        "102024": {
+            "Week_status" : "Submitted",
+            "Test task #1": [
+                {                    
+                    "project": "Project B",
+                    "category": "REG_TV",
+                    "status": "On-going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": 0,
+                    "estimatedEffort": 0,
+                    "timeRemaining": 0,
+                    "findings": 0,
+                    "startDate": "Today",
+                    "endDate": "That day",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": "It's OK"
+                },
+
+                {                    
+                    "project": "Project B",
+                    "category": "REG_TS",
+                    "status": "On-going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": 0,
+                    "estimatedEffort": 0,
+                    "timeRemaining": 0,
+                    "findings": 0,
+                    "startDate": "Today",
+                    "endDate": "That day",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": "It's OK"
+                }
+            ],
+
+            "Test task #2": [
+                {                    
+                    "project": "Project LabView",
+                    "category": "REG_TV",
+                    "status": "On-going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": 0,
+                    "estimatedEffort": 0,
+                    "timeRemaining": 0,
+                    "findings": 0,
+                    "startDate": "Today",
+                    "endDate": "That day",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": "It's OK"
+                }                
+            ]
+        }
+    }
+}

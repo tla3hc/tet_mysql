@@ -1,0 +1,175 @@
+{
+    "weeks": {
+        "current_week": {
+            "Week_status": "Unsubmitted",
+            "Public Holiday": [
+                {                    
+                    "project": "Common",
+                    "category": "Holiday",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "N/A",
+                    "endDate": "N/A",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": ""
+                }
+            ],
+            "Leave": [
+                {                    
+                    "project": "Common",
+                    "category": "Leave",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "N/A",
+                    "endDate": "N/A",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": ""
+                }
+            ],
+            "Project Meeting": [
+                {                    
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "N/A",
+                    "endDate": "N/A",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": ""
+                }
+            ],
+            "Self study": [
+                {                    
+                    "project": "Common",
+                    "category": "Competency",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "N/A",
+                    "endDate": "N/A",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": ""
+                }
+            ],
+            "Project Activities (Sharing/ Documenting)": [
+                {                    
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "N/A",
+                    "endDate": "N/A",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": ""
+                }
+            ],
+            "Company Activities (Training/ Meeting/ Others)": [
+                {                    
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "N/A",
+                    "endDate": "N/A",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": ""
+                }
+            ],
+            "Customer Meeting": [
+                {                    
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "N/A",
+                    "endDate": "N/A",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": ""
+                }
+            ],
+            "Customer Training": [
+                {                    
+                    "project": "Common",
+                    "category": "Training",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "N/A",
+                    "endDate": "N/A",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": ""
+                }
+            ]
+        }
+    }
+}

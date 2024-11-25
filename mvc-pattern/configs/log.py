@@ -1,0 +1,2 @@
+LOG_FOLDER_NAME = "./log"
+LOG_LEVEL = "DEBUG"

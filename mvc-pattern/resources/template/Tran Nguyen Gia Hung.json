@@ -1,0 +1,409 @@
+{
+    "weeks": {
+        "312024": {
+            "Week_status": "Unsubmitted",
+            "Public Holiday": [
+                {
+                    "project": "Common",
+                    "category": "Holiday",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "01/01/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "Leave": [
+                {
+                    "project": "Common",
+                    "category": "Leave",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "01/01/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "Project Meeting": [
+                {
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "01/01/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "Self study": [
+                {
+                    "project": "Common",
+                    "category": "Competency",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "01/01/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "Project Activities (Sharing/ Documenting)": [
+                {
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 1.5,
+                    "Thu": 2.5,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "01/01/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "Company Activities (Training/ Meeting/ Others)": [
+                {
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 2.5,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "29/07/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "2.5",
+                    "comment": ""
+                }
+            ],
+            "Customer Meeting": [
+                {
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 1.0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "30/07/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "1.0",
+                    "comment": ""
+                }
+            ],
+            "Customer Training": [
+                {
+                    "project": "Common",
+                    "category": "Training",
+                    "status": "On Going",
+                    "Mon": 2.5,
+                    "Tue": 2.5,
+                    "Wed": 1.5,
+                    "Thu": 2.5,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "29/07/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "6.5",
+                    "comment": ""
+                }
+            ]
+        },
+        "322024": {
+            "Week_status": "Unsubmitted",
+            "Public Holiday": [
+                {
+                    "project": "Common",
+                    "category": "Holiday",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "01/01/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "Leave": [
+                {
+                    "project": "Common",
+                    "category": "Leave",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "01/01/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "Project Meeting": [
+                {
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 2.5,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "01/01/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "Self study": [
+                {
+                    "project": "Common",
+                    "category": "Competency",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "01/01/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "Project Activities (Sharing/ Documenting)": [
+                {
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "31/07/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "4.0",
+                    "comment": ""
+                }
+            ],
+            "Company Activities (Training/ Meeting/ Others)": [
+                {
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 2.5,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "29/07/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "5.0",
+                    "comment": ""
+                }
+            ],
+            "Customer Meeting": [
+                {
+                    "project": "Common",
+                    "category": "Meeting",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 1.5,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "30/07/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "2.5",
+                    "comment": ""
+                }
+            ],
+            "Customer Training": [
+                {
+                    "project": "Common",
+                    "category": "Training",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 3.5,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "29/07/2024",
+                    "endDate": "31/12/2024",
+                    "effortByMonth": 0,
+                    "totalEffort": "12.5",
+                    "comment": ""
+                }
+            ],
+            "123": [
+                {
+                    "project": "Project A",
+                    "category": "N/A",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "",
+                    "endDate": "",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "345": [
+                {
+                    "project": "Project A",
+                    "category": "N/A",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "",
+                    "endDate": "",
+                    "effortByMonth": 0,
+                    "totalEffort": "0.0",
+                    "comment": ""
+                }
+            ],
+            "3335": [
+                {
+                    "project": "Project A",
+                    "category": "N/A",
+                    "status": "On Going",
+                    "Mon": 0,
+                    "Tue": 0,
+                    "Wed": 0,
+                    "Thu": 0,
+                    "Fri": 0,
+                    "requirements": "N/A",
+                    "estimatedEffort": "N/A",
+                    "timeRemaining": "N/A",
+                    "findings": "N/A",
+                    "startDate": "",
+                    "endDate": "",
+                    "effortByMonth": 0,
+                    "totalEffort": 0,
+                    "comment": ""
+                }
+            ]
+        }
+    }
+}

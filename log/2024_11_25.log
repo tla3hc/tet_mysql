@@ -1,0 +1,895 @@
+2024-11-25 15:15:57:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:15:57:            Database            : Connection established[0m
+2024-11-25 15:15:57:            Database            : Operator initialized[0m
+2024-11-25 15:16:06:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:16:06:            Database            : Connection established[0m
+2024-11-25 15:16:06:            Database            : Operator initialized[0m
+2024-11-25 15:17:52:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:17:52:            Database            : Connection established[0m
+2024-11-25 15:17:52:            Database            : Operator initialized[0m
+2024-11-25 15:19:46:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:19:46:            Database            : Connection established[0m
+2024-11-25 15:19:46:            Database            : Operator initialized[0m
+2024-11-25 15:20:57:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:20:57:            Database            : Connection established[0m
+2024-11-25 15:20:57:            Database            : Operator initialized[0m
+2024-11-25 15:21:53:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:21:53:            Database            : Connection established[0m
+2024-11-25 15:21:53:            Database            : Operator initialized[0m
+2024-11-25 15:22:00:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:22:00:            Database            : Connection established[0m
+2024-11-25 15:22:00:            Database            : Operator initialized[0m
+2024-11-25 15:31:54:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:31:54:            Database            : Connection established[0m
+2024-11-25 15:31:54:            Database            : Operator initialized[0m
+2024-11-25 15:31:54:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:32:04:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:32:04:            Database            : Connection established[0m
+2024-11-25 15:32:04:            Database            : Operator initialized[0m
+2024-11-25 15:32:04:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:32:27:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:32:27:            Database            : Connection established[0m
+2024-11-25 15:32:27:            Database            : Operator initialized[0m
+2024-11-25 15:32:27:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:34:28:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:34:28:            Database            : Connection established[0m
+2024-11-25 15:34:28:            Database            : Operator initialized[0m
+2024-11-25 15:34:28:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:35:28:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:35:28:            Database            : Connection established[0m
+2024-11-25 15:35:28:            Database            : Operator initialized[0m
+2024-11-25 15:35:28:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:35:56:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:35:56:            Database            : Connection established[0m
+2024-11-25 15:35:56:            Database            : Operator initialized[0m
+2024-11-25 15:35:56:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:38:06:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:38:06:            Database            : Connection established[0m
+2024-11-25 15:38:06:            Database            : Operator initialized[0m
+2024-11-25 15:38:06:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:38:43:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:38:43:            Database            : Connection established[0m
+2024-11-25 15:38:43:            Database            : Operator initialized[0m
+2024-11-25 15:38:43:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:39:05:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:39:05:            Database            : Connection established[0m
+2024-11-25 15:39:05:            Database            : Operator initialized[0m
+2024-11-25 15:39:05:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:39:06:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:39:06:            Database            : Connection established[0m
+2024-11-25 15:39:06:            Database            : Operator initialized[0m
+2024-11-25 15:39:06:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:39:51:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:39:51:            Database            : Connection established[0m
+2024-11-25 15:39:51:            Database            : Operator initialized[0m
+2024-11-25 15:39:51:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:39:52:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:39:52:            Database            : Connection established[0m
+2024-11-25 15:39:52:            Database            : Operator initialized[0m
+2024-11-25 15:39:52:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:39:52: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:40:28:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:40:28:            Database            : Connection established[0m
+2024-11-25 15:40:28:            Database            : Operator initialized[0m
+2024-11-25 15:40:28:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:40:28: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:19:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:43:19:            Database            : Connection established[0m
+2024-11-25 15:43:19:            Database            : Operator initialized[0m
+2024-11-25 15:43:19:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:19:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:43:19: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:20:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:43:20:            Database            : Connection established[0m
+2024-11-25 15:43:20:            Database            : Operator initialized[0m
+2024-11-25 15:43:20:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:20:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:43:20: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:23:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:43:24:            Database            : Connection established[0m
+2024-11-25 15:43:24:            Database            : Operator initialized[0m
+2024-11-25 15:43:24:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:24:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:43:24: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:24:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:43:24:            Database            : Connection established[0m
+2024-11-25 15:43:24:            Database            : Operator initialized[0m
+2024-11-25 15:43:24:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:24:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:43:24: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:25:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:43:25:            Database            : Connection established[0m
+2024-11-25 15:43:25:            Database            : Operator initialized[0m
+2024-11-25 15:43:25:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:25:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:43:25: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:28:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:43:28:            Database            : Connection established[0m
+2024-11-25 15:43:28:            Database            : Operator initialized[0m
+2024-11-25 15:43:28:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:28:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:43:28: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:29:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:43:29:            Database            : Connection established[0m
+2024-11-25 15:43:29:            Database            : Operator initialized[0m
+2024-11-25 15:43:29:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:29:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:43:29: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:30:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:43:30:            Database            : Connection established[0m
+2024-11-25 15:43:30:            Database            : Operator initialized[0m
+2024-11-25 15:43:30:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:30:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:43:30: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:51:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:43:51:            Database            : Connection established[0m
+2024-11-25 15:43:51:            Database            : Operator initialized[0m
+2024-11-25 15:43:51:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:51: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:52:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:43:52:            Database            : Connection established[0m
+2024-11-25 15:43:52:            Database            : Operator initialized[0m
+2024-11-25 15:43:52:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:52: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:53:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:43:53:            Database            : Connection established[0m
+2024-11-25 15:43:53:            Database            : Operator initialized[0m
+2024-11-25 15:43:53:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:53: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:53:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:43:54:            Database            : Connection established[0m
+2024-11-25 15:43:54:            Database            : Operator initialized[0m
+2024-11-25 15:43:54:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:54: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:54:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:43:54:            Database            : Connection established[0m
+2024-11-25 15:43:54:            Database            : Operator initialized[0m
+2024-11-25 15:43:54:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:54: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:55:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:43:55:            Database            : Connection established[0m
+2024-11-25 15:43:55:            Database            : Operator initialized[0m
+2024-11-25 15:43:55:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:55: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:55:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:43:55:            Database            : Connection established[0m
+2024-11-25 15:43:55:            Database            : Operator initialized[0m
+2024-11-25 15:43:55:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:55: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:56:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:43:56:            Database            : Connection established[0m
+2024-11-25 15:43:56:            Database            : Operator initialized[0m
+2024-11-25 15:43:56:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:56: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:43:56:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:43:56:            Database            : Connection established[0m
+2024-11-25 15:43:56:            Database            : Operator initialized[0m
+2024-11-25 15:43:56:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:43:56: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:44:13:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:44:13:            Database            : Connection established[0m
+2024-11-25 15:44:13:            Database            : Operator initialized[0m
+2024-11-25 15:44:13:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:44:13: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:44:14:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:44:14:            Database            : Connection established[0m
+2024-11-25 15:44:14:            Database            : Operator initialized[0m
+2024-11-25 15:44:14:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:44:14: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:44:15:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:44:15:            Database            : Connection established[0m
+2024-11-25 15:44:15:            Database            : Operator initialized[0m
+2024-11-25 15:44:15:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:44:15: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:44:16:             Logger             : Init[0m
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-11-25 15:44:16:            Database            : Connection established[0m
+2024-11-25 15:44:16:            Database            : Operator initialized[0m
+2024-11-25 15:44:16:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:44:16: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:44:22:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:44:23:            Database            : Connection established[0m
+2024-11-25 15:44:23:            Database            : Operator initialized[0m
+2024-11-25 15:44:23:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:44:23:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:44:23: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:44:24:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:44:24:            Database            : Connection established[0m
+2024-11-25 15:44:24:            Database            : Operator initialized[0m
+2024-11-25 15:44:24:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:44:24:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:44:24: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:44:37:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:44:37:            Database            : Connection established[0m
+2024-11-25 15:44:37:            Database            : Operator initialized[0m
+2024-11-25 15:44:37:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:44:37:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:44:39:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:44:39:            Database            : Connection established[0m
+2024-11-25 15:44:39:            Database            : Operator initialized[0m
+2024-11-25 15:44:39:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:44:39:            Database            : Inserting employee: 1, John Doe, 123[0m
+2024-11-25 15:44:39: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '1' for key 'employees.PRIMARY'[0m
+2024-11-25 15:46:29:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:46:29:            Database            : Connection established[0m
+2024-11-25 15:46:29:            Database            : Operator initialized[0m
+2024-11-25 15:46:29:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:46:29:            Database            : Searching for employee: John Doe[0m
+2024-11-25 15:46:33:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:46:33:            Database            : Connection established[0m
+2024-11-25 15:46:33:            Database            : Operator initialized[0m
+2024-11-25 15:46:33:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:46:33:            Database            : Searching for employee: John Doe[0m
+2024-11-25 15:51:44:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:51:44:            Database            : Connection established[0m
+2024-11-25 15:51:44:            Database            : Operator initialized[0m
+2024-11-25 15:51:44:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:51:44:            Database            : Inserting employee: 2, Lam, tran@gmail.com[0m
+2024-11-25 15:52:08:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:52:08:            Database            : Connection established[0m
+2024-11-25 15:52:08:            Database            : Operator initialized[0m
+2024-11-25 15:52:08:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:52:08:            Database            : Inserting employee: 2, Lam, tran@gmail.com[0m
+2024-11-25 15:52:08: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '2' for key 'employees.PRIMARY'[0m
+2024-11-25 15:52:08:            Database            : Updating employee: 2[0m
+2024-11-25 15:53:30:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:53:31:            Database            : Connection established[0m
+2024-11-25 15:53:31:            Database            : Operator initialized[0m
+2024-11-25 15:53:31:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:53:31:            Database            : Inserting employee: 2, Lam, tran@gmail.com[0m
+2024-11-25 15:53:31: [31m           Database            : Error inserting employee: 1062 (23000): Duplicate entry '2' for key 'employees.PRIMARY'[0m
+2024-11-25 15:53:31:            Database            : Updating employee: 2[0m
+2024-11-25 15:53:49:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:53:49:            Database            : Connection established[0m
+2024-11-25 15:53:49:            Database            : Operator initialized[0m
+2024-11-25 15:53:49:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:53:49:            Database            : Updating employee: Lam[0m
+2024-11-25 15:53:53:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:53:53:            Database            : Connection established[0m
+2024-11-25 15:53:53:            Database            : Operator initialized[0m
+2024-11-25 15:53:53:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:53:53:            Database            : Updating employee: Lam[0m
+2024-11-25 15:54:00:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:54:00:            Database            : Connection established[0m
+2024-11-25 15:54:00:            Database            : Operator initialized[0m
+2024-11-25 15:54:00:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:54:00:            Database            : Updating employee: Lm[0m
+2024-11-25 15:54:02:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:54:02:            Database            : Connection established[0m
+2024-11-25 15:54:02:            Database            : Operator initialized[0m
+2024-11-25 15:54:02:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:54:02:            Database            : Updating employee: Lm[0m
+2024-11-25 15:54:02:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:54:02:            Database            : Connection established[0m
+2024-11-25 15:54:02:            Database            : Operator initialized[0m
+2024-11-25 15:54:02:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:54:02:            Database            : Updating employee: Lm[0m
+2024-11-25 15:54:03:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:54:03:            Database            : Connection established[0m
+2024-11-25 15:54:03:            Database            : Operator initialized[0m
+2024-11-25 15:54:03:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:54:03:            Database            : Updating employee: Lm[0m
+2024-11-25 15:55:29:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 15:55:29:            Database            : Connection established[0m
+2024-11-25 15:55:29:            Database            : Operator initialized[0m
+2024-11-25 15:55:29:            Database            : EmployeesUtils initialized[0m
+2024-11-25 15:55:29:            Database            : Updating employee: Lm[0m
+2024-11-25 15:55:29:            Database            : Employee updated: [][0m
+2024-11-25 15:55:29:            Database            : Employee updated: None[0m
+2024-11-25 16:06:08:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:06:08:            Database            : Connection established[0m
+2024-11-25 16:06:08:            Database            : Operator initialized[0m
+2024-11-25 16:06:08:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:06:39:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:06:39:            Database            : Connection established[0m
+2024-11-25 16:06:39:            Database            : Operator initialized[0m
+2024-11-25 16:06:39:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:06:40:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:06:40:            Database            : Connection established[0m
+2024-11-25 16:06:40:            Database            : Operator initialized[0m
+2024-11-25 16:06:40:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:06:40:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:06:40:            Database            : Connection established[0m
+2024-11-25 16:06:40:            Database            : Operator initialized[0m
+2024-11-25 16:06:40:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:06:41:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:06:41:            Database            : Connection established[0m
+2024-11-25 16:06:41:            Database            : Operator initialized[0m
+2024-11-25 16:06:41:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:08:06:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:08:06:            Database            : Connection established[0m
+2024-11-25 16:08:06:            Database            : Operator initialized[0m
+2024-11-25 16:08:06:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:08:26:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:08:26:            Database            : Connection established[0m
+2024-11-25 16:08:26:            Database            : Operator initialized[0m
+2024-11-25 16:08:26:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:08:42:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:08:43:            Database            : Connection established[0m
+2024-11-25 16:08:43:            Database            : Operator initialized[0m
+2024-11-25 16:08:43:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:09:26:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:09:26:            Database            : Connection established[0m
+2024-11-25 16:09:26:            Database            : Operator initialized[0m
+2024-11-25 16:09:26:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:09:38:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:09:38:            Database            : Connection established[0m
+2024-11-25 16:09:38:            Database            : Operator initialized[0m
+2024-11-25 16:09:38:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: uno2hc, Ung Nho Hoa, uno2hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: ngx3hc, Nguyen Thi Xinh, ngx3hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: tla3hc, Tran Danh Lam, tla3hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: hdo3hc, Ho Duc Duy, hdo3hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: ary1hc, Nguyen Xuan Truong, ary1hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: oil1hc, Ho Thi Lieu, oil1hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: bgo1hc, Ngo Van Duy, bgo1hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: ldu4hc, Le Trung Duc, ldu4hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: pch4hc, Phan Duy Chinh, pch4hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: nuv4hc, Nguyen Khac Vu, nuv4hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: yab1hc, Nguyen Tien Hai, yab1hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: tau9hc, Tran Nguyen Gia Hung, tau9hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: dny9hc, Nguyen Anh Duy, dny9hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: llo4hc, Le Hung Loi, llo4hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: pma5hc, Pham Ba Hai, pma5hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: any5hc, Nguyen Duy Tuan Anh, any5hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: hui7hc, Huynh Minh Tien, hui7hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: ynu3hc, Nguyen Quoc Thinh, ynu3hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: vtr4hc, Vo Hieu Trung, vtr4hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: nuc2hc, Nguyen Duy Cuong, nuc2hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: pti8hc, Phi Tue Thu, pti8hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: gnh4hc, Nguyen Quang Hung, gnh4hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: hnu3hc, Nguyen Huynh Quang Huy, hnu3hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: nud6hc, Nguyen Thai Duy, nud6hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: unt6hc, Fixed-Term Nguyen Viet Tuan, unt6hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: ddi2hc, Fixed-Term Dinh The Danh, ddi2hc@bosch.com[0m
+2024-11-25 16:09:38:            Database            : Inserting employee: act8hc, Common Account, act8hc@bosch.com[0m
+2024-11-25 16:19:16:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:19:16:            Database            : Connection established[0m
+2024-11-25 16:19:16:            Database            : Operator initialized[0m
+2024-11-25 16:19:16:            Database            : EmployeesUtils initialized[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: uno2hc, Ung Nho Hoa, uno2hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: ngx3hc, Nguyen Thi Xinh, ngx3hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: tla3hc, Tran Danh Lam, tla3hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: hdo3hc, Ho Duc Duy, hdo3hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: ary1hc, Nguyen Xuan Truong, ary1hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: oil1hc, Ho Thi Lieu, oil1hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: bgo1hc, Ngo Van Duy, bgo1hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: ldu4hc, Le Trung Duc, ldu4hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: pch4hc, Phan Duy Chinh, pch4hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: nuv4hc, Nguyen Khac Vu, nuv4hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: yab1hc, Nguyen Tien Hai, yab1hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: tau9hc, Tran Nguyen Gia Hung, tau9hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: dny9hc, Nguyen Anh Duy, dny9hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: llo4hc, Le Hung Loi, llo4hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: pma5hc, Pham Ba Hai, pma5hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: any5hc, Nguyen Duy Tuan Anh, any5hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: hui7hc, Huynh Minh Tien, hui7hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: ynu3hc, Nguyen Quoc Thinh, ynu3hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: vtr4hc, Vo Hieu Trung, vtr4hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: nuc2hc, Nguyen Duy Cuong, nuc2hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: pti8hc, Phi Tue Thu, pti8hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: gnh4hc, Nguyen Quang Hung, gnh4hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: hnu3hc, Nguyen Huynh Quang Huy, hnu3hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: nud6hc, Nguyen Thai Duy, nud6hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: unt6hc, Fixed-Term Nguyen Viet Tuan, unt6hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: ddi2hc, Fixed-Term Dinh The Danh, ddi2hc@bosch.com[0m
+2024-11-25 16:19:16:            Database            : Inserting employee: act8hc, Common Account, act8hc@bosch.com[0m
+2024-11-25 16:31:49:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:31:49:            Database            : Connection established[0m
+2024-11-25 16:31:49:            Database            : Operator initialized[0m
+2024-11-25 16:31:49:            Database            : ProjectUtils initialized[0m
+2024-11-25 16:32:01:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:32:01:            Database            : Connection established[0m
+2024-11-25 16:32:01:            Database            : Operator initialized[0m
+2024-11-25 16:32:01:            Database            : ProjectUtils initialized[0m
+2024-11-25 16:32:32:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:32:32:            Database            : Connection established[0m
+2024-11-25 16:32:32:            Database            : Operator initialized[0m
+2024-11-25 16:32:32:            Database            : ProjectUtils initialized[0m
+2024-11-25 16:32:32:            Database            : Inserting project: 0, Project A[0m
+2024-11-25 16:32:32:            Database            : Inserting project: 1, Project B[0m
+2024-11-25 16:32:32:            Database            : Inserting project: 2, Project C[0m
+2024-11-25 16:32:32:            Database            : Inserting project: 3, Project CANoe[0m
+2024-11-25 16:32:32:            Database            : Inserting project: 4, Project LabVIEW[0m
+2024-11-25 16:32:32: [31m           Database            : Error inserting project: 1062 (23000): Duplicate entry '4' for key 'projects.PRIMARY'[0m
+2024-11-25 16:32:32:            Database            : Inserting project: 5, Project Sound2Light[0m
+2024-11-25 16:32:32:            Database            : Inserting project: 6, Project Unassigned[0m
+2024-11-25 16:33:18:             Logger             : Init[0m
+Building SSL context
+Switching to SSL
+SSL has been enabled
+Starting authorization phase
+The provided initial strategy is caching_sha2_password
+package: mysql.connector.plugins
+plugin_name: caching_sha2_password
+AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+Exchanging further packets
+caching_sha2_password completed succesfully
+2024-11-25 16:33:18:            Database            : Connection established[0m
+2024-11-25 16:33:18:            Database            : Operator initialized[0m
+2024-11-25 16:33:18:            Database            : ProjectUtils initialized[0m
+2024-11-25 16:33:18:            Database            : Inserting project: 1, Project A[0m
+2024-11-25 16:33:18:            Database            : Inserting project: 2, Project B[0m
+2024-11-25 16:33:18:            Database            : Inserting project: 3, Project C[0m
+2024-11-25 16:33:18:            Database            : Inserting project: 4, Project CANoe[0m
+2024-11-25 16:33:18:            Database            : Inserting project: 5, Project LabVIEW[0m
+2024-11-25 16:33:18:            Database            : Inserting project: 6, Project Sound2Light[0m
+2024-11-25 16:33:18:            Database            : Inserting project: 7, Project Unassigned[0m
